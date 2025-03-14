@@ -5,9 +5,9 @@
         Console.WriteLine("Hello, World!");
         Console.WriteLine("Hello, World!");
         Console.WriteLine("Hello, World!");
-        int[] numbers = { 1, 2, 4 };
-        Console.WriteLine(FindAverage(numbers));
-        Console.WriteLine(FindMax(numbers));
+        int[] c = { 1, 2, 4 };
+        Console.WriteLine(FindAverage(c));
+        Console.WriteLine(FindMax(c));
     }
     public static double FindAverage(int[] numbers)
     {
